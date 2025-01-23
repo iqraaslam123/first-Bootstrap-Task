@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-image: url(bgimage);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.container{
+    border: 2px solid rgb(242, 242, 247);
+    box-shadow: 10px 10px  blue;
+   
+}
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px blue;
+}
+.col{
+    border: 2px solid green;
+    box-shadow: 10px 10px  white
+}
+img{
+    height: 90px;
+    margin-left: 50px;
+}
